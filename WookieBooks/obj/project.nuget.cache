@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "U1GRzgRbe+MGTDpQPitP65itvkHQ7hQQsYmPq5yQ1gMUxfxrT6GZHiH2UQQMn7zbOUqEUE03THLxEIKNd78oyA==",
+  "dgSpecHash": "E32MOGsjY36wYX9QAduKXZK7rJL4E+KG2cPcmo2lCBrn02tGkxbWvQmBg68UFjxek5lYepbGRzfVae8iRibKCg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jared\\OneDrive\\Documents\\Repos\\WookieBooks\\WookieBooks\\WookieBooks\\WookieBooks.csproj",
+  "projectFilePath": "C:\\Users\\jared\\OneDrive\\Documents\\Repos\\WookieBooks_Github\\WookieBooks\\WookieBooks\\WookieBooks.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jared\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.3\\microsoft.entityframeworkcore.6.0.3.nupkg.sha512",
     "C:\\Users\\jared\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.3\\microsoft.entityframeworkcore.abstractions.6.0.3.nupkg.sha512",

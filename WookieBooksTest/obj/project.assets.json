@@ -6857,11 +6857,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jared\\OneDrive\\Documents\\Repos\\WookieBooks\\WookieBooks\\WookieBooksTest\\WookieBooksTest.csproj",
+      "projectUniqueName": "C:\\Users\\jared\\OneDrive\\Documents\\Repos\\WookieBooks_Github\\WookieBooks\\WookieBooksTest\\WookieBooksTest.csproj",
       "projectName": "WookieBooksTest",
-      "projectPath": "C:\\Users\\jared\\OneDrive\\Documents\\Repos\\WookieBooks\\WookieBooks\\WookieBooksTest\\WookieBooksTest.csproj",
+      "projectPath": "C:\\Users\\jared\\OneDrive\\Documents\\Repos\\WookieBooks_Github\\WookieBooks\\WookieBooksTest\\WookieBooksTest.csproj",
       "packagesPath": "C:\\Users\\jared\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jared\\OneDrive\\Documents\\Repos\\WookieBooks\\WookieBooks\\WookieBooksTest\\obj\\",
+      "outputPath": "C:\\Users\\jared\\OneDrive\\Documents\\Repos\\WookieBooks_Github\\WookieBooks\\WookieBooksTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -6883,8 +6883,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\jared\\OneDrive\\Documents\\Repos\\WookieBooks\\WookieBooks\\WookieBooks\\WookieBooks.csproj": {
-              "projectPath": "C:\\Users\\jared\\OneDrive\\Documents\\Repos\\WookieBooks\\WookieBooks\\WookieBooks\\WookieBooks.csproj"
+            "C:\\Users\\jared\\OneDrive\\Documents\\Repos\\WookieBooks_Github\\WookieBooks\\WookieBooks\\WookieBooks.csproj": {
+              "projectPath": "C:\\Users\\jared\\OneDrive\\Documents\\Repos\\WookieBooks_Github\\WookieBooks\\WookieBooks\\WookieBooks.csproj"
             }
           }
         }

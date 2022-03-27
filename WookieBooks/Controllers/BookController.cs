@@ -76,7 +76,7 @@ namespace WookieBooks.Controllers
             return NotFound();
         }
   
-        [HttpPost("~/books/update")]
+        [HttpPut("~/books/update")]
         public async Task<IActionResult> Update(Book book)
         {
             try
@@ -94,7 +94,7 @@ namespace WookieBooks.Controllers
             return NotFound();
         }
 
-        [HttpPost("~/books/delete")]
+        [HttpDelete("~/books/delete")]
         public async Task<IActionResult> Delete(int id)
         {
             try
