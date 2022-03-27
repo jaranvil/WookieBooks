@@ -119,13 +119,13 @@ Update an existing book record
 
 **URL** /books/update
 
-**Method** POST
+**Method** PUT
 
 **Sample**
 
 Request
 ~~~
-POST https://wookiebooks20220327145308.azurewebsites.net/books/update
+PUT https://wookiebooks20220327145308.azurewebsites.net/books/update
 ~~~
 Request Body
 ~~~
@@ -151,13 +151,13 @@ Delete an existing book record
 
 **URL** /books/delete
 
-**Method** POST
+**Method** DELETE
 
 **Sample**
 
 Request
 ~~~
-POST https://wookiebooks20220327145308.azurewebsites.net/books/delete
+DELETE https://wookiebooks20220327145308.azurewebsites.net/books/delete
 ~~~
 Request Body
 ~~~
