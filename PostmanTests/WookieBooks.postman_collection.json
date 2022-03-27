@@ -1,0 +1,158 @@
+{
+	"info": {
+		"_postman_id": "9da03b86-124d-4611-8ebe-a288f14105e6",
+		"name": "WookieBooks",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "ReadAll",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://localhost:7000/books/all?page=1&count=10",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "7000",
+					"path": [
+						"books",
+						"all"
+					],
+					"query": [
+						{
+							"key": "page",
+							"value": "1"
+						},
+						{
+							"key": "count",
+							"value": "10"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Read",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://localhost:7000/books/read?id=1",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "7000",
+					"path": [
+						"books",
+						"read"
+					],
+					"query": [
+						{
+							"key": "id",
+							"value": "1"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Create",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"title\": \"Test Book\",\r\n  \"description\": \"Test Description\",\r\n  \"author\": \"Test Author\",\r\n  \"coverImage\": \"image.png\",\r\n  \"price\": 1\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://localhost:7000/books/create",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "7000",
+					"path": [
+						"books",
+						"create"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Update",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"id\": 1,\r\n  \"title\": \"New Title\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://localhost:7000/books/update",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "7000",
+					"path": [
+						"books",
+						"update"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Delete",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://localhost:7000/books/delete?id=1",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "7000",
+					"path": [
+						"books",
+						"delete"
+					],
+					"query": [
+						{
+							"key": "id",
+							"value": "1"
+						}
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

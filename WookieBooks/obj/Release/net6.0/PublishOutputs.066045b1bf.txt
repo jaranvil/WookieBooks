@@ -1,0 +1,15 @@
+C:\Users\jared\OneDrive\Documents\Repos\WookieBooks\WookieBooks\WookieBooks\obj\Release\net6.0\PubTmp\Out\WookieBooks.exe
+C:\Users\jared\OneDrive\Documents\Repos\WookieBooks\WookieBooks\WookieBooks\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\jared\OneDrive\Documents\Repos\WookieBooks\WookieBooks\WookieBooks\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\jared\OneDrive\Documents\Repos\WookieBooks\WookieBooks\WookieBooks\obj\Release\net6.0\PubTmp\Out\WookieBooks.dll
+C:\Users\jared\OneDrive\Documents\Repos\WookieBooks\WookieBooks\WookieBooks\obj\Release\net6.0\PubTmp\Out\WookieBooks.deps.json
+C:\Users\jared\OneDrive\Documents\Repos\WookieBooks\WookieBooks\WookieBooks\obj\Release\net6.0\PubTmp\Out\WookieBooks.runtimeconfig.json
+C:\Users\jared\OneDrive\Documents\Repos\WookieBooks\WookieBooks\WookieBooks\obj\Release\net6.0\PubTmp\Out\WookieBooks.pdb
+C:\Users\jared\OneDrive\Documents\Repos\WookieBooks\WookieBooks\WookieBooks\obj\Release\net6.0\PubTmp\Out\Microsoft.EntityFrameworkCore.dll
+C:\Users\jared\OneDrive\Documents\Repos\WookieBooks\WookieBooks\WookieBooks\obj\Release\net6.0\PubTmp\Out\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\jared\OneDrive\Documents\Repos\WookieBooks\WookieBooks\WookieBooks\obj\Release\net6.0\PubTmp\Out\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\jared\OneDrive\Documents\Repos\WookieBooks\WookieBooks\WookieBooks\obj\Release\net6.0\PubTmp\Out\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\jared\OneDrive\Documents\Repos\WookieBooks\WookieBooks\WookieBooks\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\jared\OneDrive\Documents\Repos\WookieBooks\WookieBooks\WookieBooks\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\jared\OneDrive\Documents\Repos\WookieBooks\WookieBooks\WookieBooks\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\jared\OneDrive\Documents\Repos\WookieBooks\WookieBooks\WookieBooks\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
